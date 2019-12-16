@@ -1,0 +1,10 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+header{
+    box-sizing: border-box;
+    display: table;
+    position: relative;
+}
